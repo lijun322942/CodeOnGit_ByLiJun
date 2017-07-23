@@ -1,1 +1,1 @@
-echo %time%>time.txt
+echo %time%>>time.txt
