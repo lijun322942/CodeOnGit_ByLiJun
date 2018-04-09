@@ -1,0 +1,7 @@
+Good afternoon, interviewer.
+	I am lijun from sichuan,It is my honor to attend today's interview, I interview myself as a continuous integration engineer, in the past four years, I have worked in huawei and Chinese software.
+
+	In huawei, my team is the wireless UMTS business line, and I worked with the test team, development team.The main content of my work is to build continuous integration environment, build daily continuous integration software version to test team, troubleshooting, and release daily delivery.In addition, the quality of the software is part of my job.
+
+	In the company of Chinese software, I was responsible for the Tibet national tax of jinshuisanqi in the year of 2015.Data collection, data comparison, new and old system data migration, troubleshooting is my main work content, I often use the Oracle database, the whole process has made me learned a lot.
+	That's all.Thanks!
