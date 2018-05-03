@@ -6,6 +6,6 @@ In huawei, I worked with the test team, development team as a continuous integra
 
 I often use CI tools in my job such as ICP-CI,UCI,and jenkins. svn、git、bat、shell、python、Oracle database is also necessary.the whole process has made me learned a lot.
 
-I think my experience and Ability  are very suitable for this position. If I can get this position, I will do my best to help our team to succeed.
+I think my experience and Abilities are very suitable for this position. If I can get this position, I will do my best to help our team to succeed.
 
 That's all.Thanks!
