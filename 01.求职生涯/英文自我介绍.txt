@@ -2,10 +2,10 @@ OK,now let's me introduce myself.
 
 It is my honor to attend today's interview,in the past four years, I have worked for huawei and Chinese software.
 
-In huawei, I worked with the test team, development team and the version level as a continuous integration engineer.The main content of my work is to build daily continuous integration software version to test team. troubleshooting, and release daily delivery.In addition, the quality of the software is part of my job.
+In huawei, I worked with the test team, development team as a continuous integration engineer.The main content of my work is to build daily continuous integration software version to test team. troubleshooting, and release daily delivery. In addition, the quality of the software is part of my job.
 
 I often use CI tools in my job such as ICP-CI,UCI,and jenkins. svn、git、bat、shell、python、Oracle database is also necessary.the whole process has made me learned a lot.
 
-I think my experience and quality are very suitable for this position. If I can get this position, I will do my best to help our team to succeed.
+I think my experience and Ability  are very suitable for this position. If I can get this position, I will do my best to help our team to succeed.
 
 That's all.Thanks!
