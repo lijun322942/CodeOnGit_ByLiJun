@@ -1,0 +1,18 @@
+<!--Tools-->
+ReplaceStr.exe
+PsExec.exe
+
+<!--RootPwd-->
+echo root:asd123@1|chpasswd
+
+<!--TaskStart-->
+for /f "delims=: tokens=1,2*" %%i in ("batName") do (
+)
+
+<!--将+号替换成空格-->
+set "batName=%batName:+= "
+
+<!--路径转换-->
+EntryDirectory=%~dp0..\..
+
+wget $url -p $path

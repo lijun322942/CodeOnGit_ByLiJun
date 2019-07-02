@@ -1,6 +1,0 @@
-netstat -lnt
-
-ssh $ip
-
-wget $url -p $path
-
